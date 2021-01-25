@@ -9,7 +9,7 @@ namespace Valutaomregner
             while (true)
             {
 
-                Console.WriteLine(" Start by typing the number you want converted. You can convert DKK to 4 different types of currencies. = USD, GBP, EURO and SEK");
+                Console.WriteLine("Start by typing the number you want converted. You can convert DKK to 4 different types of currencies. = USD, GBP, EURO and SEK");
                 try
                 {
                     double DKK = double.Parse(Console.ReadLine());
