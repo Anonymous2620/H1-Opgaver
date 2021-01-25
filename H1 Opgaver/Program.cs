@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace H1_Opgaver
+namespace Variabler_og_datatyper
 {
     class Program
     {
