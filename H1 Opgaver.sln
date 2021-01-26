@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler og datatyper", "H1 Opgaver\Variabler og datatyper.csproj", "{58258B6C-EF88-431C-B533-E2D56450C40E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variabler og datatyper", "H1 Opgaver\Variabler og datatyper.csproj", "{58258B6C-EF88-431C-B533-E2D56450C40E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celciusomregner", "Celciusomregner\Celciusomregner.csproj", "{6C5DE141-0C61-49F5-9454-C2796E1C0108}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Celciusomregner", "Celciusomregner\Celciusomregner.csproj", "{6C5DE141-0C61-49F5-9454-C2796E1C0108}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valutaomregner", "Valutaomregner\Valutaomregner.csproj", "{5ADCAA72-2791-4367-8C21-FA27FFA5CB65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valutaomregner", "Valutaomregner\Valutaomregner.csproj", "{5ADCAA72-2791-4367-8C21-FA27FFA5CB65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rumfang", "Rumfang\Rumfang.csproj", "{A2659D87-BCB2-482C-AA87-A7D97BA6AB22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rumfang", "Rumfang\Rumfang.csproj", "{A2659D87-BCB2-482C-AA87-A7D97BA6AB22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lidt matematik", "Lidt matematik\Lidt matematik.csproj", "{FB0559F8-0916-45A5-8C84-5F646101A822}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lidt matematik", "Lidt matematik\Lidt matematik.csproj", "{FB0559F8-0916-45A5-8C84-5F646101A822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terningkastet", "Terningkastet\Terningkastet.csproj", "{D52DADBF-1238-49E3-8A90-F5F352F3E2E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FB0559F8-0916-45A5-8C84-5F646101A822}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB0559F8-0916-45A5-8C84-5F646101A822}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB0559F8-0916-45A5-8C84-5F646101A822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52DADBF-1238-49E3-8A90-F5F352F3E2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52DADBF-1238-49E3-8A90-F5F352F3E2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52DADBF-1238-49E3-8A90-F5F352F3E2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52DADBF-1238-49E3-8A90-F5F352F3E2E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
