@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lidt matematik", "Lidt mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Terningkastet", "Terningkastet\Terningkastet.csproj", "{D52DADBF-1238-49E3-8A90-F5F352F3E2E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pythagoras", "Pythagoras\Pythagoras.csproj", "{55BFD123-0729-4DD0-A635-59A9617EB29C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pythagoras", "Pythagoras\Pythagoras.csproj", "{55BFD123-0729-4DD0-A635-59A9617EB29C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alder", "Alder\Alder.csproj", "{35210782-52E8-4297-BF08-B6B231BE08D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alder", "Alder\Alder.csproj", "{35210782-52E8-4297-BF08-B6B231BE08D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gæt et tal", "Gæt et tal\Gæt et tal.csproj", "{1B77B8E8-3D0F-4BCC-8973-8EF3A336B5DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gæt et tal", "Gæt et tal\Gæt et tal.csproj", "{1B77B8E8-3D0F-4BCC-8973-8EF3A336B5DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Porto", "Porto\Porto.csproj", "{C0558539-2B39-472F-B848-28A7EF8C549B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{1B77B8E8-3D0F-4BCC-8973-8EF3A336B5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B77B8E8-3D0F-4BCC-8973-8EF3A336B5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B77B8E8-3D0F-4BCC-8973-8EF3A336B5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0558539-2B39-472F-B848-28A7EF8C549B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0558539-2B39-472F-B848-28A7EF8C549B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0558539-2B39-472F-B848-28A7EF8C549B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0558539-2B39-472F-B848-28A7EF8C549B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
