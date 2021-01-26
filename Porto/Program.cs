@@ -11,34 +11,34 @@ namespace Porto
                 try
                 {
                     Console.WriteLine("Postnord Pakage Sending Price Calculator\nPakages need to have a minimum of 14 CM in length and a minimum of 9 CM in width.\n " +
-                       
+
                         "Pakages have a max = Length + Width + Height = 300 cm " +
-                       
+
                         "\nThe length sould not exceed 150 CM, and the weight is not allowed to be higher than 20 KG\nLetters need to have a minimum of 14 CM in length and a minimum of 9 CM in width.\n " +
-                        
+
                         "Letters have a max = Length + Width + Height = 90 cm " +
-                        
+
                         "\nThe length sould not exceed 60 CM, and the weight is not allowed to be higher than 20 KG\n");
-                    
-                   
+
+
                     Console.WriteLine("Enter Height = CM:");
                     double h = double.Parse(Console.ReadLine());
-                   
+
                     Console.WriteLine("Length = CM:");
                     double l = double.Parse(Console.ReadLine());
-                    
+
                     Console.WriteLine("Width = CM:");
                     double w = double.Parse(Console.ReadLine());
-                   
+
                     Console.WriteLine("Weight = KG:");
                     double we = double.Parse(Console.ReadLine());
-                  
+
                     Console.WriteLine("Country:");
                     string c = (Console.ReadLine());
 
-                    
+
                     double letter = 90;
-                    
+
                     double pakage = 300;
 
                     if (l < 14)
@@ -78,10 +78,15 @@ namespace Porto
                         Console.ReadKey();
                         Console.Clear();
                         Console.WriteLine("Postnord Pakage Sending Price Calculator");
+
                     }
+
                     else if (l + h + w > pakage)
+                    {
+
                         Console.WriteLine("Your pakage is too big and therefore not eligible for sendning through Postnord. " +
-                            "Remember that leters have a max \nLength + Width + Height = 90 cm \nwhile Pakages have a max \nLength + Width + Height = 300 cm");
+                        "Remember that leters have a max \nLength + Width + Height = 90 cm \nwhile Pakages have a max \nLength + Width + Height = 300 cm");
+                    }
 
 
                 }
