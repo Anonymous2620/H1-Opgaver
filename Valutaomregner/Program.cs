@@ -29,6 +29,7 @@ namespace Valutaomregner
                 catch
                 {
                     Console.WriteLine("Invalid input");
+                    Console.Clear();
                     continue;
                 }
                 //Jeg har lavet en try and catch fordi på den måde ryger man ikke ud når man indtaster noget forkert.

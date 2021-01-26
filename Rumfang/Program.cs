@@ -29,6 +29,7 @@ namespace Rumfang
                 catch
                 {
                     Console.WriteLine("Invalid input");
+                    Console.Clear();
                     continue;
                 }
                 //Her laver en try and catch for at gøre det mulligt at skrive bogstaver med en fejl og starte igen istedet for at konsolen crasher.
