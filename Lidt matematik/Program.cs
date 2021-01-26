@@ -20,7 +20,8 @@ namespace Lidt_matematik
                     Console.WriteLine("Write integer two:");
                     int two = int.Parse(Console.ReadLine());
 
-                    Console.WriteLine("The numbers plussed together: " + (one + two));
+                    Console.WriteLine("The numbers plussed: " + (one + two));
+                    Console.WriteLine("The numbers divided: \n" + (one / two));
 
 
                 }
