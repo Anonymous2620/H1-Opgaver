@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rumfang", "Rumfang\Rumfang.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lidt matematik", "Lidt matematik\Lidt matematik.csproj", "{FB0559F8-0916-45A5-8C84-5F646101A822}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terningkastet", "Terningkastet\Terningkastet.csproj", "{D52DADBF-1238-49E3-8A90-F5F352F3E2E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Terningkastet", "Terningkastet\Terningkastet.csproj", "{D52DADBF-1238-49E3-8A90-F5F352F3E2E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pythagoras", "Pythagoras\Pythagoras.csproj", "{55BFD123-0729-4DD0-A635-59A9617EB29C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alder", "Alder\Alder.csproj", "{35210782-52E8-4297-BF08-B6B231BE08D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{D52DADBF-1238-49E3-8A90-F5F352F3E2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D52DADBF-1238-49E3-8A90-F5F352F3E2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D52DADBF-1238-49E3-8A90-F5F352F3E2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BFD123-0729-4DD0-A635-59A9617EB29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BFD123-0729-4DD0-A635-59A9617EB29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BFD123-0729-4DD0-A635-59A9617EB29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BFD123-0729-4DD0-A635-59A9617EB29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35210782-52E8-4297-BF08-B6B231BE08D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35210782-52E8-4297-BF08-B6B231BE08D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35210782-52E8-4297-BF08-B6B231BE08D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35210782-52E8-4297-BF08-B6B231BE08D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
