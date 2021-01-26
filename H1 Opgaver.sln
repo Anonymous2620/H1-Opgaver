@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valutaomregner", "Valutaomr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rumfang", "Rumfang\Rumfang.csproj", "{A2659D87-BCB2-482C-AA87-A7D97BA6AB22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lidt matematik", "Lidt matematik\Lidt matematik.csproj", "{FB0559F8-0916-45A5-8C84-5F646101A822}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A2659D87-BCB2-482C-AA87-A7D97BA6AB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2659D87-BCB2-482C-AA87-A7D97BA6AB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2659D87-BCB2-482C-AA87-A7D97BA6AB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0559F8-0916-45A5-8C84-5F646101A822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0559F8-0916-45A5-8C84-5F646101A822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0559F8-0916-45A5-8C84-5F646101A822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0559F8-0916-45A5-8C84-5F646101A822}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
