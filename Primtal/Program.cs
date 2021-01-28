@@ -21,7 +21,7 @@ namespace Primtal
                     {
                         int prime = 0;
                         
-                        for (int b = 1; b < a; b++)
+                        for (int b = 1; b <a; b++)
                         {
                             if (a % b == 0)
                                 
