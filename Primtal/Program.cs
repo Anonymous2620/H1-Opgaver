@@ -12,7 +12,7 @@ namespace Primtal
                 try
                 {
                 
-                Console.WriteLine("\nWrite a number which will be the range all " +
+                    Console.WriteLine("\nWrite a number which will be the range all " +
                     "prime numbers will be shown within that range in the colour red");
                 
                     int input = int.Parse(Console.ReadLine());
