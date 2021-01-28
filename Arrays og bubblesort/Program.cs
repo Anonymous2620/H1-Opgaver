@@ -9,14 +9,18 @@ namespace Arrays_og_bubblesort
             int[] numb = new int[100];
             Random random = new Random();
 
-            //for (int a = 0; a < numb.Length; a++)
-            //{
-            //    int randomNumber = random.Next(0, 1000);
+            Console.WriteLine("\nAsignment A");
 
-            //    numb[a] = randomNumber;
+            for (int a = 0; a < numb.Length; a++)
+            {
+                int randomNumber = random.Next(0, 1000);
 
-            //    Console.WriteLine(numb[a]);
-            //}
+                numb[a] = randomNumber;
+
+                Console.WriteLine(numb[a]);
+            }
+            
+            Console.WriteLine("\nAsignment B");
 
             for (int b = 0; b <= numb.Length; b++)
             {

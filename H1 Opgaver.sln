@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays og bubblesort", "Arrays og bubblesort\Arrays og bubblesort.csproj", "{D8653ECE-C53F-43F9-956C-A418A3954FC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays og matematik", "Arrays og matematik\Arrays og matematik.csproj", "{B26744EB-C4AD-4E8C-8CC2-DAC9E90C2DCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{D8653ECE-C53F-43F9-956C-A418A3954FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8653ECE-C53F-43F9-956C-A418A3954FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8653ECE-C53F-43F9-956C-A418A3954FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B26744EB-C4AD-4E8C-8CC2-DAC9E90C2DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26744EB-C4AD-4E8C-8CC2-DAC9E90C2DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26744EB-C4AD-4E8C-8CC2-DAC9E90C2DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26744EB-C4AD-4E8C-8CC2-DAC9E90C2DCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
