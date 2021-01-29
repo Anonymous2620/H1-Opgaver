@@ -9,7 +9,7 @@ namespace Lot
             int[] ticket = new int[6];
 
             
-            
+           
             int[] myCoupon = new int[7] { 1, 2, 3, 4, 5, 6, 7 };
             
             
@@ -20,7 +20,7 @@ namespace Lot
 
             
             Console.WriteLine("You got a lucky cupon!");
-
+            
             
             for (int i = 0; i < ticket.Length; i++)
             {
